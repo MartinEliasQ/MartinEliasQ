@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BrokenLamp Blog]]></title><description><![CDATA[This is the BrokenLamp's technical logbook.]]></description><link>https://brokenlamp.martinquintero.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 08 May 2021 23:37:24 GMT</lastBuildDate><item><title><![CDATA[Why is the lamp broken?]]></title><description><![CDATA[Welcome to BrokenLamp. This is the first blog post and I’m very excited to start this project. I’ve had the idea since last year to launch…]]></description><link>https://brokenlamp.martinquintero.com/hello-world/</link><guid isPermaLink="false">https://brokenlamp.martinquintero.com/hello-world/</guid><pubDate>Sat, 08 May 2021 17:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to &lt;strong&gt;BrokenLamp&lt;/strong&gt;. This is the first blog post and I’m very excited to start this project. I’ve had the idea since last year to launch some articles on topics that I find interesting. However, to start, I’d like to tell you a little bit about why &lt;strong&gt;BrokenLamp&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b132a050533c6f36e8b5bb5593ad4183/71ee9/imalogo.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC3UlEQVQ4y62US2gTURiFx2WtbTMzyczcic00rRqj1YxNYk1satIYm1pftFVphVawPlCrxYpifUfqEyPiCxEVAiIIgiguu9aVrlyJKAguunHvwk8yWltfaLCLw9y5M/P9d879z5UMw/dpKiUZho+pVBH4uShdr/78u3Gpclao69UTVYSFEJZzNcTXuR+e/22FxZeF8GEKy/lQU03cLh3VpeNRTXRtZklQSRg+ZFUwo9LjTMxPJbHbWrFTSWaHFuGtrvsOmwz9UwFJcZvE7QhX8yd5+OgWd+9eYsuhvXSODNN/O4/dksKjCExvzS9WiHF7JhWRXB4v6aDNs+5tvLl6hbHRJ7x68ZT+g7vZcOE482MxKsoVZMVAUQzcinCsUFXh3Muy7oy1b9ZIXrOGaWUy2boArwsXeXe/wNvDx3n+pMCqwR0E7DBN8STpdJZYYxOhZcuoXxIjYjeSaEqRSmaIhmP4/QEHKsmyIJNKkM/t4E5+iPyuTeyrbSCXbCPTs57Z9TabunsZHBwiu3ItHb19NLe1s6prI61rO8iu6WB110YaonFURSCVlavkhjZTyPUzei/P/ZsHUH1+ZlS4CbeuwKoLMC8YYoEdZZZu8eDyDQpHR9gfSXF+TQ9nO3s51r6BkD+IqnmRqlyCTHOUl4+vM1o4wZE9PaiVGrPqQyzf2ucYLbs0ggvDtDfEeX/uBh9PXWFs/2nGhi8wNjTCh+3DpH1BXEWgoVejGz4yLQmyLXHcqsnM2jmszx0k3d+LWqU5Zvtr57LYXszW0FIGFjWzZ+kK9iayDERTbJ/XyBzTj6e4y+PbLSsm0c51tO/bSd+1Mww8vEW8cx1KhQdh1jiGq26TcregTDUok7WvUnSmu4UDG88yhpMWi7nhiNN3kbZWEt1dBBoiTouM91kxBF5h/SrDmujDySko9lgxckqVhlLpQfN4S8/ynw4HYVolwyZ++Sf9S2ZLAv7vATulwC++alove/032wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Broken Lamp Brand&quot;
+        title=&quot;Broken Lamp Brand&quot;
+        src=&quot;/static/b132a050533c6f36e8b5bb5593ad4183/f058b/imalogo.png&quot;
+        srcset=&quot;/static/b132a050533c6f36e8b5bb5593ad4183/c26ae/imalogo.png 158w,
+/static/b132a050533c6f36e8b5bb5593ad4183/6bdcf/imalogo.png 315w,
+/static/b132a050533c6f36e8b5bb5593ad4183/f058b/imalogo.png 630w,
+/static/b132a050533c6f36e8b5bb5593ad4183/40601/imalogo.png 945w,
+/static/b132a050533c6f36e8b5bb5593ad4183/71ee9/imalogo.png 1081w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As time went by that same idea of breaking down the concepts began to be structured and I remembered the anecdote from a few years ago, and BrokenLamp was born.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;About 3 years ago I was still a student working for a research group at my university focused on big data and artificial intelligence. Soon I was interested in all these topics, however within the team my job was to support a platform based on Hadoop and in general I was the administrator of a cluster of Linux computers. One day I decided to develop a degree project to get my academic degree and the idea was to start using natural language processing to try to detect fake news on Twitter. That idea didn’t work out and I switched to computer vision where I explored face detection and recognition.&lt;/p&gt;
+&lt;p&gt;Despite being an engineering student I struggled with mathematics and started looking for other people besides the research group who were working on the same topics as me. I didn’t find much and I made my own study group, a few days later I realized that I had looked in the wrong place and that there were many people discussing artificial intelligence in my university and city, Medellin.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I was not surprised that I was the only one who was still an undergraduate student, but, contrary to my preconceptions, these people were nice to me. For many reasons of life, we now work together in our own startup, guane. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I met some people in graduate school in physics who were doing seminars on machine learning and, a bit intimidated by the level I would encounter, I took a chance on attending. I was not surprised that I was the only one who was still an undergraduate student, but, contrary to my preconceptions, these people were nice to me. For many reasons of life, we now work together in our own startup, guane. And those same people have become my teachers, colleagues, partners and best friends. In that adventure I was the first engineer of our company and consequently now I am the CTO. But curiously BrokenLamp was born on my first day of work in guane, just 3 years ago.&lt;/p&gt;
+&lt;p&gt;We work in a Co-working and we were 4 people that were part of the company. I sat at my workstation, turned on my computer with arch linux for the eighth time (I always screw up) and talking to a colleague I realized that the lamp provided by the co-working was adjustable and I could move it from one side to the other. I found myself in that situation from the cartoon Dexter’s Laboratory when Dee Dee asks: What is this button for, I asked myself: How many ways can I move the lamp, and so on my first day of work, barely knowing the place, I made the first negative numbers of guane leaving the lamp unusable. There I made a comment: “Someday I will make a guane spin-off based on this moment”. &lt;/p&gt;
+&lt;p&gt;Until now we always joked about that situation. However, at the same time I had a lot of ideas because I started to learn a lot about how to do business, especially in software development. I focused on the area of leadership in general and as a backend developer. With the passage of time that same idea of breaking down the concepts was structured and I remembered the anecdote from a few years ago, and BrokenLamp was born not as a spin-off of guane but as my personal project in which I hope to share all the experience of these years and everything new I can learn.&lt;/p&gt;
+&lt;h2&gt;Roadmap&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Adding internationalization to the blog for Spanish &lt;/li&gt;
+&lt;li&gt;Improve blog styles, add menus and tags&lt;/li&gt;
+&lt;li&gt;Blogging on infrastructure, software architecture and backend development&lt;/li&gt;
+&lt;/ol&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;</content:encoded></item></channel></rss>
