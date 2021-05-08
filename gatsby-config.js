@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `BrokenLamp Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Martin E. Quintero`,
+      summary: `who is passionate about sharing what he has learned.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `This is the BrokenLamp's technical logbook.`,
+    siteUrl: `https://brokenlamp.martinquintero.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `YoQuinteroO`,
     },
   },
   plugins: [
@@ -31,6 +31,14 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          "gatsby-remark-emoji",
+          {
+            resolve: `gatsby-remark-vscode`,
+            options: {
+              theme: "Monokai", // Or install your favorite theme from GitHub
+            },
+          },
+
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -43,7 +51,6 @@ module.exports = {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
           },
-          `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
         ],
@@ -118,7 +125,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/profile-pic.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,
